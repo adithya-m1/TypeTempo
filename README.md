@@ -36,7 +36,7 @@ To run the Typing Speed Test locally, follow these steps:
 1. **Clone the repository**:
    
    ```bash
-   git clone https://github.com/rakeshmuntha/Type_Speed_Checker.git
+   git clone https://github.com/adithya-m1/Type_Tempo.git
    
 2.**Navigation**
 To navigate to the project folder, use the following command in your terminal:
