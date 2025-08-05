@@ -1,5 +1,9 @@
 # Typing Speed Checker
 
+
+
+Here is the live website link. https://typingspeed5.netlify.app/
+
 ## Project Overview
 
 This Typing Speed Checker is a web-based application designed to help users improve their typing speed and accuracy. The application features a customizable timer, random paragraphs for practice, real-time feedback on typing mistakes, and a word-per-minute (WPM) calculation to track performance. This project is ideal for anyone looking to practice typing skills, from beginners to advanced typists.
@@ -44,3 +48,4 @@ To navigate to the project folder, use the following command in your terminal:
 ```bash
 cd your-repository-name
 open index.html with liveserver
+
